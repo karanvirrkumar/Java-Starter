@@ -1,0 +1,7 @@
+Day1-01-06-22
+
+Installed The JDK
+Wrote first code
+
+Study Resource:-
+https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop
